@@ -1,1 +1,1 @@
-from .math_exp import sum_nums
+from .math_exp import sum_nums, multiply

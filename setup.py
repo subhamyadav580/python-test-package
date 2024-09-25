@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="sum_num",  # Replace with your package name
-    version="0.1.4",
+    version="0.1.5",
     author="Shubham Yadav",
     author_email="subhamyadav580@gmail.com",
     description="A package for addition and multiplication",
