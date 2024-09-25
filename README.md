@@ -1,6 +1,6 @@
 # My Package
 
-A simple greeting package that greets a user by name.
+A simple Mathematics package that do that addition and multiplication of two numbers.
 
 ## Installation
 
